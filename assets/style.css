@@ -3030,7 +3030,7 @@ img {
   height: 100%;
   position: absolute;
   left: 0;
-  top: 0;
+  top: -10%;
   z-index: 1;
   background-size: cover;
   background-position: center;
@@ -3706,7 +3706,7 @@ img {
 }
 .static-hero .static-hero-right {
   position: absolute;
-  top: 48%;
+  top: 40%;
   right: 200px;
   z-index: 1;
   transform: translateY(-50%);
@@ -3743,7 +3743,7 @@ img {
   background: #fff;
   border-radius: 320px;
   z-index: 1;
-  max-width: 640px;
+  max-width: 500px;
 }
 .static-hero .static-hero-right .static-hero-shape-1 {
   position: absolute;

@@ -4843,7 +4843,7 @@ wpo-hero-slider-s3
 .wpo-video-section {
   position: relative;
   z-index: 1;
-  background: url(../images/cta.jpg) no-repeat center center;
+  background: url(../images/parallax-2.jpg) no-repeat center center;
   height: 400px;
   background-attachment: fixed;
 }
@@ -5141,7 +5141,7 @@ wpo-hero-slider-s3
   width: 100%;
   height: 500px;
   content: "";
-  background: url(../images/event/bg.jpg) no-repeat center center;
+  background: url(../images/parallax.jpg) no-repeat center 35%;
   z-index: -1;
 }
 .wpo-event-section:after {
